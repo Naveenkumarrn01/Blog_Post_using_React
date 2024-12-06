@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blog_using_React/static/css/main.de5d297d.css",
+    "main.js": "/Blog_using_React/static/js/main.65bed120.js",
+    "index.html": "/Blog_using_React/index.html",
+    "main.de5d297d.css.map": "/Blog_using_React/static/css/main.de5d297d.css.map",
+    "main.65bed120.js.map": "/Blog_using_React/static/js/main.65bed120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5d297d.css",
+    "static/js/main.65bed120.js"
+  ]
+}
